@@ -26,6 +26,7 @@ list_of_files = [
     "main.py",
     "app.py",
     "Dockerfile",
+    "README.md",
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
